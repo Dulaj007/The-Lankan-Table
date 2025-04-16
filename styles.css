@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('Assets/background.png');
+    background-size: cover; /* Ensures the image covers the screen */
+    background-position: top center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    color: white;
+}
+
+header {
+    text-align: center;
+}
+header>h1{
+    font-family: "Birthstone", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 5vw;
+}
+header>p{
+    font-size: 2vw;
+    
+}
+
